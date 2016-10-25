@@ -1,7 +1,10 @@
 ---
 layout: page
-title: About Emerald
+title: About clintko/blogv2
 ---
+## About
+This my second version of blog, which is forked from [KingFelix/emerald](https://github.com/KingFelix/emerald).
+
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
