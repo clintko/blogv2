@@ -76,7 +76,7 @@ I am a student of biological background. I have been learning bioinformatics and
 
 | Verbal    | Quantitative | Writing |
 |:---------:|:------------:|:-------:|
-|   144     |    167       |   3     |
+|   152     |    167       |   3     |
 
 
 ### Hobbies
