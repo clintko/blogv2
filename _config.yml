@@ -1,7 +1,7 @@
 # Site settings
 title: ClintKo's Blog
 description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://clintko.github.io/blogv2/"
 author:
   name: "Kuei-Yueh Ko (Clinton Ko)"
   email: "clint00724@gmail.com"
