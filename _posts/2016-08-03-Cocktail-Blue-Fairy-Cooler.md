@@ -1,6 +1,5 @@
 ---
 title: [Cocktail] Blue Fairy Cooler
-category: mixology
 ---
 
 It is really hot today. When having supper, I made my own cocktail and called
