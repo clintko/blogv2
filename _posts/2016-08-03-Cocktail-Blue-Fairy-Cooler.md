@@ -1,5 +1,5 @@
 ---
-title: Example 5
+title: Cocktail Blue Fairy Cooler
 ---
 
 It is really hot today. When having supper, I made my own cocktail and called
