@@ -1,5 +1,5 @@
 ---
-title: Example 4
+title: My First Post
 ---
 
 This is my first post here. I construct the blog using Jekyll and Github follow by the tutorial in Youtube channel: [WebJeda](https://www.youtube.com/playlist?list=PLm_Qt4aKpfKijgP0rDH7FSJOlS9IBGbT1) and [Thomas Bradley](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-). Both contains many great videos about constructing a blog using Jekyll and Github. I would recommend to anyone who wants to give it a try.
